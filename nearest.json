@@ -1,30 +1,30 @@
 [
   {
-    "Name": "Ala villa",
+    "Name": "Hotel Ala villa",
     "Location": "Dangedara",
     "Image": "https://telegra.ph/file/532d422371d23a6d78afc.png",
     "Price": "50$/night"
   },
   {
-    "Name": "Kela Villa",
+    "Name": "Kela Villa Hotel",
     "Location": "Jaffna",
     "Image": "https://telegra.ph/file/2de0fe9770b888137107f.png",
     "Price": "65$/night"
   },
   {
-    "Name": "Araliya Hotel",
+    "Name": "Araliya mal na Hotel",
     "Location": "Kandy",
     "Image": "https://telegra.ph/file/66fcad0c00f62b005c2e1.png",
     "Price": "80$/night"
   },
   {
-    "Name": "Hamilton",
+    "Name": "Hamilton ge Hotel",
     "Location": "Colombo",
     "Image": "https://telegra.ph/file/640a74a6f250b6d7dde66.png",
     "Price": "55$/night"
   },
   {
-    "Name": "Thambapanni",
+    "Name": "Hotel Thambapanni",
     "Location": "Appage gegava",
     "Image": "https://telegra.ph/file/407ec7231db85a9443bd3.png",
     "Price": "70$/night"
